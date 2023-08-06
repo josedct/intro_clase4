@@ -1,5 +1,5 @@
 ### intro_clase4
-Repositorio para ejercicio clase 4
+Repositorio para ejercicio clase 4 modificado
 
 # Estados de archivo en Git
 
