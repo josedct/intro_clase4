@@ -7,7 +7,7 @@ Repositorio para ejercicio clase 4 modificado
 2. Preparado (staged) :card_file_box: 
 3. Confirmado (committed) :package: 
 
--Modificado2 (modified) :black_nib: 
-*Preparado2 (staged) :card_file_box: 
-+Confirmado (committed) :package:
+- Modificado2 (modified) :black_nib: 
+* Preparado2 (staged) :card_file_box: 
++ Confirmado (committed) :package:
 
